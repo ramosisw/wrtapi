@@ -9,18 +9,18 @@ This project was created to be used for a mobile APP to display system info and 
 
 
 Implemented API endpoints:
-| Method | Endpoint | Description  |
-|------- | -------- | ------------ |
-|`GET`   | / | <em>Test method</em> |
-|`GET`   | /system | <em>Get System info</em> |
-|`GET`   | /system/board | <em>add description</em> |
-|`GET`   | /system/services | <em>add description</em> |
-|`GET`   | /network | <em>add description</em> |
-|`GET`   | /network/interfaces | <em>add description</em> |
-|`GET`   | /network/interfaces/wan | <em>add description</em> |
-|`GET`   | /network/interfaces/lan | <em>add description</em> |
-|`GET`   | /wlan | <em>add description</em> |
-|`GET`   | /wlan/clients | <em>add description</em> |
+| Method | Endpoint                | Description                 |
+|------- | ----------------------- | --------------------------- |
+|`GET`   | /                       | <em>Test method</em>        |
+|`GET`   | /system                 | <em>Get System info</em>    |
+|`GET`   | /system/board           | <em>add description</em>    |
+|`GET`   | /system/services        | <em>add description</em>    |
+|`GET`   | /network                | <em>add description</em>    |
+|`GET`   | /network/interfaces     | <em>add description</em>    |
+|`GET`   | /network/interfaces/wan | <em>add description</em>    |
+|`GET`   | /network/interfaces/lan | <em>add description</em>    |
+|`GET`   | /wlan                   | <em>add description</em>    |
+|`GET`   | /wlan/clients           | <em>add description</em>    |
 
 
 ## Build
